@@ -17,11 +17,11 @@ Este repositório abandona resumos longos e passivos. Utilizamos **Mapas Mentais
 ## 🧭 Navegação Rápida
 Acesse rapidamente os temas já previstos na arquitetura do repositório:
 
-- [01 · Ciências Humanas — Sistema Colonial e Mineração](01-ciencias-humanas/historia-do-brasil/01-sistema-colonial-e-mineracao.md)
-- [02 · Linguagens e Códigos — Tipologia e Gêneros Textuais](02-linguagens-e-codigos/compreensao-e-interpretacao/01-tipologia-e-generos-textuais.md)
-- [03 · Redação — Competência 1: Gramática e Desvios](03-redacao/competencias-oficiais/01-comp1-gramatica-e-desvios.md)
-- [04 · Ciências da Natureza — Cinemática e Leis de Newton](04-ciencias-da-natureza/fisica/01-cinematica-e-leis-de-newton.md)
-- [05 · Matemática e suas Tecnologias — Razão, Proporção e Escala](05-matematica-e-tecnologias/matematica-basica-e-aritmetica/01-razao-proporcao-e-escala.md)
+- [01 · Ciências Humanas — Sistema Colonial e Mineração](01-ciencias-humanas/01-historia-do-brasil/01-sistema-colonial-e-mineracao.md)
+- [02 · Linguagens e Códigos — Tipologia e Gêneros Textuais](02-linguagens-e-codigos/01-compreensao-e-interpretacao/01-tipologia-e-generos-textuais.md)
+- [03 · Redação — Competência 1: Gramática e Desvios](03-redacao/01-competencias-oficiais/01-comp1-gramatica-e-desvios.md)
+- [04 · Ciências da Natureza — Cinemática e Leis de Newton](04-ciencias-da-natureza/01-fisica/01-cinematica-e-leis-de-newton.md)
+- [05 · Matemática e suas Tecnologias — Razão, Proporção e Escala](05-matematica-e-tecnologias/01-matematica-basica-e-aritmetica/01-razao-proporcao-e-escala.md)
 
 ---
 
